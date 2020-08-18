@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-cout<<"Hello Samyak";
+cout<<"Hello Samyak"<<endl;
 }
